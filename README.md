@@ -1,8 +1,7 @@
 Younes Outerbah 
 ========================================================================================================================================
 
-I am a Front-End Developer 
-<br/>
+Junior Front End Developer form Algeria
 
 ### Skills
 
