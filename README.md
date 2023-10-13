@@ -5,7 +5,7 @@ Junior Front End Developer from Algeria
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,sass,figma)](https://skillicons.dev)
 <br/>
 
 ### Socials
