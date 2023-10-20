@@ -1,7 +1,7 @@
 Younes Outerbah 
 ========================================================================================================================================
 
-Junior Front End Developer from Algeria
+Front End Developer
 
 ### Skills
 
